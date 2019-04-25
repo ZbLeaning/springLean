@@ -1,0 +1,27 @@
+# springLean
+spring注解驱动开及源码分析
+该项目是个人学习Spring注解驱动的代码demo及spring源码分析。
+对应大目录有：
+  1、组件注册
+  2、生命周期
+  3、属性赋值
+  4、自动装配
+  5、IOC小结
+  6、AOP源码分析
+  7、声明式事务演示
+  8、扩展原理
+    8.1-BeanFactoryPostProcessor
+    8.2-BeanDefinitionRegistryPostProcessor
+    8.3-ApplicationListener用法
+    8.4-@EventListener与SmartInitializingSingleton
+  9、Spring容器创建过程
+  10、Servlett3.0
+    10.1-简介
+    10.2-ServletContainerInitializer
+    10.3-ServletContext注册三大组件
+    10.4-Servlet3.0与SpringMVC整合分析
+  11、SpringMVC
+    11.1-整合
+    11.2-定制与接管SpringMVC
+    11.3-servlet3.0异步请求
+    11.4-SpringMVC异步请求返回Callable和DeferredResult
