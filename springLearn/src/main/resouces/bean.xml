@@ -4,8 +4,8 @@
        xmlns:context="http://www.springframework.org/schema/context"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
         <!--传统的bean配置方式，在xml中定义bean的相关信息-->
-        <bean id="person" class="com.component.factory.Person">
-                <property name="age" value="18"></property>
-                <property name="name" value="zhangsan"></property>
-        </bean>
+<!--        <bean id="person" class="com.component.factory.Person">-->
+<!--                <property name="age" value="18"></property>-->
+<!--                <property name="name" value="zhangsan"></property>-->
+<!--        </bean>-->
 </beans>
